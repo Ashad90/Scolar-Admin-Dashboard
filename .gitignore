@@ -1,0 +1,31 @@
+# Node / JS
+node_modules/
+dist/
+build/
+/.vite/
+
+# Bun lockfile (keep if you use Bun; ignore if you don't want to commit it)
+bun.lockb
+
+# TECHNOLOGY-SPECIFIC
+.TECHNOLOGIES.md
+
+# Lockfiles for other package managers (ignore to avoid accidental commits)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment
+.env
+.env.*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Misc
+coverage/
+.nyc_output/
+*.log
