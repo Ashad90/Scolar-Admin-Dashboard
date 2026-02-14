@@ -23,7 +23,7 @@ import {
   Sun,
   LogOut,
 } from 'lucide-react';
-import logoImage from 'figma:asset/9b80abb374c6c99b593443655c82a569bca7501b.png';
+import logoImage from '../../assets/9b80abb374c6c99b593443655c82a569bca7501b.png';
 
 const menuItems = [
   { icon: LayoutDashboard, label: 'Dashboard', path: '/dashboard' },
